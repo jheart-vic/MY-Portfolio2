@@ -3,9 +3,8 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- bootstrap
 
 ## Live Demo (if available)
 
