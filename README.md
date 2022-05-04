@@ -1,5 +1,5 @@
 # Project Name
-> Description the project.
+> My-Portfolio2
 
 ## Built With
 
@@ -11,13 +11,6 @@
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -37,9 +30,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Victor david**
 
-- GitHub: [@githubhandle](https://github.com/jheart-vic)
-- Twitter: [@twitterhandle](https://twitter.com/victorjheart)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jheart-vic](https://github.com/jheart-vic)
+- Twitter: [@victorjheart](https://twitter.com/victorjheart)
+- LinkedIn: [@victorchiemerie](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
